@@ -22,7 +22,7 @@ in an issue on this repository.
     class Purchase < ActiveRecord::Base
     end
     ```
-4. Based on #3, give an example of a) associating two instances via the join model.
+4. Based on #3, give an example of associating two instances via the join model.
 
 Note: For #3 and #4, you can answer these questions by including link(s) to places in your Project 2 repo where you do the requested tasks. Make sure you're liking to a specific file / line in that file. [How to link to line numbers in github](http://stackoverflow.com/questions/23821235/how-to-link-to-specific-line-number-on-github)
 
