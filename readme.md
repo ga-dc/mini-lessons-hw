@@ -15,10 +15,10 @@ in an issue on this repository.
     ```ruby
     class Customer < ActiveRecord::Base
     end
-    
+
     class Product < ActiveRecord::Base
     end
-    
+
     class Purchase < ActiveRecord::Base
     end
     ```
@@ -28,9 +28,20 @@ Note: For #3 and #4, you can answer these questions by including link(s) to plac
 
 ## Devise
 
-- [screencast](https://www.youtube.com/watch?v=h6na4saDPaA&index=1&list=PLnKff2cv2ktb8QWH77oI-Gb0TnbdiHKL0)
+[Lesson Notes](https://github.com/ga-dc/pbj/tree/master/06-project-2/devise)
+[Screencast](https://www.youtube.com/watch?v=h6na4saDPaA&index=1&list=PLnKff2cv2ktb8QWH77oI-Gb0TnbdiHKL0)
 
 ### Questions
+1. What does the `current_user` method that the Devise gem provides?
+
+2. What does the `authenticate_user!` method that the Devise gem provides?
+
+3. Write a signout link using the `link_to` rails helper and a devise path.
+
+4. How do I generate a devise model in the terminal?
+
+5. What are the trade offs for using a gem for authentication over a handrolled solution? (no real right answer)
+
 
 ## Validations
 
