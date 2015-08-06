@@ -28,7 +28,7 @@ Note: For #3 and #4, you can answer these questions by including link(s) to plac
 
 ## Devise
 
-- [screencast](#)
+- [screencast](https://www.youtube.com/watch?v=h6na4saDPaA&index=1&list=PLnKff2cv2ktb8QWH77oI-Gb0TnbdiHKL0)
 
 ### Questions
 
